@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import {JSDOM} from 'jsdom';
+import { codes } from './codes.js';
 
 const writeStream = fs.createWriteStream('charge-categories.md');
 const pathName = writeStream.path;
@@ -16,8 +17,12 @@ const myDivs = divs.filter((div) => div.classList.contains('x_data-item'));
 
 const reserved = ['*RPR*', '*COMM*', 'CS', 'PG', 'MISC', 'CPF', 'FTA', 'VPTA', '*GOB*', 'DL'];
 
-const digitRegex = /\d{8}\s/;
+const digitRegex = /\d{8}/;
+
+const digitSpaceRegex = /\d{8}\s/;
+
 const whitespaceRegex = /\s{2,8}/;
+
 const vals = myDivs
   .map((div) => div.innerHTML)
   .filter((val) => val !== 'No Bond')
@@ -25,7 +30,7 @@ const vals = myDivs
   .filter((val) => val.length !== 6)
   .filter((val) => val.match(/(\d{1,4}([.\-/])\d{1,2}([.\-/])\d{1,4})/g) === null)
   .map((val) => val.split('<br aria-hidden="true">'))
-  .flat()
+  .flat() // <--
   .map((val) => val
           .replace(digitRegex, '')
           .replace('\\n', '')
