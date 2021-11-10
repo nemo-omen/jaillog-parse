@@ -1,0 +1,17 @@
+- *FTA* Unl Carrying Weapon: 1
+- *GOB* Poss CS PG 1 < 1g: 1
+- *J/N* Poss CS PG 1 >= 4g < 200g: 1
+- *J/N* Poss Marij < 2oz: 1
+- *J/N* Resist Arrest Search Or Transport: 1
+- *VOP* Assault Causes Bodily Injury Family Violence: 1
+- Agg Assault Date/family/house w/Weapon: 1
+- Assault Of Pregnant Person: 1
+- DL1 No Driver's License (when Unlicensed): 1
+- Driving While Intoxicated w/Child Under 15yoa: 1
+- Fail To Identify Fugitive From Justice: 1
+- MISC Parole Violation: 1
+- MISC Us Marshal Hold: 1
+- Possession: 5
+- Public Intoxication: 1
+- Sp *CPF* Speeding: 1
+- Theft Prop >= $100 < $750: 1

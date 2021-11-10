@@ -1,9 +1,5 @@
 import * as fs from 'fs';
 import {JSDOM} from 'jsdom';
-import {rehype} from 'rehype';
-import { readSync } from 'to-vfile';
-import rehypeDocument from 'rehype-document';
-import rehypeJailLogs from './rehypeJailLogs.js';
 
 const writeStream = fs.createWriteStream('charge-categories.md');
 const pathName = writeStream.path;
@@ -43,6 +39,10 @@ const vals = myDivs
           .map(
             (word) => {
               if(!reserved.includes(word) && word.charAt(0) !== '*') {
+                if(word.charAt(0) === 'W' && word.charAt(1) == '/') {
+                  return word.charAt(0).toLowerCase() + word.charAt(1) + word.charAt(2) + word.slice(3).toLowerCase();
+                }
+
                 return word.charAt(0) + word
                   .slice(1)
                   .toLowerCase();
