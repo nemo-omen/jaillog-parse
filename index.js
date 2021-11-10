@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import {JSDOM} from 'jsdom';
+import * as xlsxj from 'xlsx-to-json';
 import { codes } from './codes.js';
 
 const writeStream = fs.createWriteStream('charge-categories.md');
