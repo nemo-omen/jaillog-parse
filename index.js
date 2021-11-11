@@ -1,17 +1,15 @@
 import * as fs from 'fs';
+import { writeFile } from 'fs/promises';
 import {JSDOM} from 'jsdom';
+import { titleCase } from 'title-case';
 import { codes } from './codes.js';
 import { wpTemplate } from './template.js'; 
 
-const writeStream = fs.createWriteStream('charge-categories.txt');
+// const writeStream = fs.createWriteStream('charge-categories.txt');
+// const pathName = writeStream.path;
 
-const pathName = writeStream.path;
-
-const templateFilePath = 'jaillog_wp.txt';
-
+/* INIT JSDOM */
 const myDom = await JSDOM.fromFile('./jl.html');
-
-const rawHTML = fs.readFileSync('./jl.html', 'utf8');
 
 const document = myDom.window.document;
 
@@ -23,18 +21,37 @@ const links = Array.from(document.querySelectorAll('a'));
 
 const count = divs.filter((div) => div.classList.contains('x_image-div')).length;
 
-const reserved = ['*RPR*', '*COMM*', 'CS', 'PG', 'MISC', 'CPF', 'FTA', 'VPTA', '*GOB*', 'DL'];
-
+/* REGEX */
 const digitRegex = /\d{8}/;
 
 const digitSpaceRegex = /\d{8}\s/;
 
 const whitespaceRegex = /\s{2,8}/;
 
+/* VARS */
+
+// store the charges, with the charge description
+// as the key, and the occurrence as a value
+const charges = new Map();
+
+// the file we'll finally write to
+const templateFilePath = 'jaillog_wp.txt';
+
+let lines = [];
+
+// keep reserved string groupings in a set
+// so we can protect them from transformations
+// and make sure we're not storing multiples
+// of the same value
+const reserved = new Set();
+
+// remove all links from raw html before starting
 links.forEach((link) => {
   link.parentNode.removeChild(link);
 });
 
+// start breaking down raw html into a list of charges
+// this is pretty much just a long chain of array methods
 const vals = myDivs
   .map((div) => div.innerHTML)
   .filter((val) => val !== 'No Bond')
@@ -42,7 +59,7 @@ const vals = myDivs
   .filter((val) => val.length !== 6)
   .filter((val) => val.match(/(\d{1,4}([.\-/])\d{1,2}([.\-/])\d{1,4})/g) === null)
   .map((val) => val.split('<br aria-hidden="true">'))
-  .flat() // <--
+  .flat()
   .map((val) => {
     const first = val.split(' ')[0];
     const remaining = val
@@ -63,10 +80,38 @@ const vals = myDivs
       .replace('&gt;', '>')
       .replace('&lt;', '<')
       ;
-  });
+  })
+  .map((val) => {
+    if(val.match(/\*\S{2,}\*[a-zA-Z]/)) {
+      const match = val.match(/\*\S{2,}\*/);
+      reserved.add(match[0]);
+      return val.replace(match, match + ' ');
+    } else if(/\*\S{2,}\*\s/) {
+      const match = val.match(/\*\S{2,}\*/);
+      if(match) reserved.add(match[0]);
+      return val;
+    } else {
+      return val;
+    }
+  })
+  .map((val) => {
+    return val
+      .split(' ')
+      .map((word) => {
+        if(!reserved.has(word)) {
+          return word.toLowerCase();
+        } else {
+          return word;
+        };
+      })
+      .join(' ')
+  })
+  .map((val) => titleCase(val));
 
-const charges = new Map();
-
+  console.log(reserved);
+// add individual charges to a Map
+// if charge already exists in map, increment
+// its value by 1
 for(const val of vals) {
   if(!charges.has(val)) {
     charges.set(val, 1);
@@ -75,30 +120,25 @@ for(const val of vals) {
   }
 }
 
-let lines = [];
-
-const chargeEntries = charges.entries();
-
-for(let [key, value] of chargeEntries) {
+for(let [key, value] of charges.entries()) {
   lines.push(`${key}: ${value}`);
 }
 
+// sort alphabetically
 lines = lines
-  .sort((a,b) => a < b ? -1 : a > b ? 1 : 0)
-  .map((line) => `${line}`);
+  .sort((a,b) => a < b ? -1 : a > b ? 1 : 0);
 
+  console.log(lines);
+// generate the template
 const template = wpTemplate(24, count, 'https://conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-11-2021', lines, myDom.serialize());
 
-fs.writeFileSync(templateFilePath, template, 'utf8');
-
-// lines.forEach((line) => writeStream.write(`${line}\n`));
-
-// writeStream.on('finish', () => {
-  // console.log(`Finished writing ${pathName}`);
-// });
-// 
-// writeStream.on('error', (error) => {
-  // console.error(`Failed to write ${pathName} with error: ${error}`);
-// });
-
-// writeStream.end();
+// write the final file
+try {
+  writeFile(templateFilePath, template, 'utf8').then((response) => {
+    if(response === undefined) {
+      console.log(`\n🚀 Done! Your template: ${templateFilePath} has been saved! 🚀\n`);
+    }
+  });
+} catch(error) {
+  console.error(error);
+}
