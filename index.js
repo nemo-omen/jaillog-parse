@@ -78,8 +78,7 @@ const vals = myDivs
       .replace('\n', '')
       .replace(whitespaceRegex, ' ')
       .replace('&gt;', '>')
-      .replace('&lt;', '<')
-      ;
+      .replace('&lt;', '<');
   })
   .map((val) => {
     if(val.match(/\*\S{2,}\*[a-zA-Z]/)) {
@@ -108,7 +107,6 @@ const vals = myDivs
   })
   .map((val) => titleCase(val));
 
-  console.log(reserved);
 // add individual charges to a Map
 // if charge already exists in map, increment
 // its value by 1
@@ -128,7 +126,6 @@ for(let [key, value] of charges.entries()) {
 lines = lines
   .sort((a,b) => a < b ? -1 : a > b ? 1 : 0);
 
-  console.log(lines);
 // generate the template
 const template = wpTemplate(24, count, 'https://conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-11-2021', lines, myDom.serialize());
 
