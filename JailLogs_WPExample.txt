@@ -1,0 +1,536 @@
+<!-- wp:paragraph -->
+<p>Over the past 24 hours, 15 people were booked into the Tom Green County Detention Center. Below is a summary of the booking charges and the individual Tom Green County Detention Center records.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Charge categories</strong> <em>(Note: several that have been taken into custody have multiple charges filed against them&nbsp;that&nbsp;fit into more than one general category. See the individual records for details)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:lakana/promo-link {"postId":967212,"title":"Suspect arrested after standoff with TGC Special Response Team","link":"https://www.conchovalleyhomepage.com/news/live-police-standoff-in-north-san-angelo/","target":true} /-->
+
+<!-- wp:list -->
+<ul><li><em>FTA</em> Unl Carrying Weapon: 1</li><li><em>GOB</em> Poss CS PG 1 &lt; 1g: 1</li><li><em>J/N</em> Poss CS PG 1 &gt;= 4g &lt; 200g: 1</li><li><em>J/N</em> Poss Marij &lt; 2oz: 1</li><li><em>J/N</em> Resist Arrest Search Or Transport: 1</li><li><em>VOP</em> Assault Causes Bodily Injury Family Violence: 1</li><li>Agg Assault Date/family/house w/Weapon: 1</li><li>Assault Of Pregnant Person: 1</li><li>DL1 No Driver's License (when Unlicensed): 1</li><li>Driving While Intoxicated w/Child Under 15yoa: 1</li><li>Fail To Identify Fugitive From Justice: 1</li><li>MISC Parole Violation: 1</li><li>MISC Us Marshal Hold: 1</li><li>Possession: 5</li><li>Public Intoxication: 1</li><li>SP <em>CPF</em>  Speeding: 1</li><li>Theft Prop &gt;= $100 &lt; $750: 1</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.conchovalleyhomepage.com/news/jail-logs-november-10-2021">[NOTE: If viewing on the news app, please click here to view the roster.]</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="x_row">
+  <div aria-hidden="true">&nbsp;</div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/037a67e2-45f9-47f2-be93-7ce394fdf51a.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">JALOMO, ENRIQUE </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436491</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-10-2021 - 2:52 am</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35620008 POSS MARIJ &lt;2OZ<br aria-hidden="true">35990248 POSS CS PG 1/1-B
+        &gt;=1G&lt;4G</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$1000.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436491&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408427341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=n5Z8YOrxGaykHl7AEmoLskENBetzE%2BGwxMMviDKdT%2BU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436491" shash="edccXgwx4ea042EUUVRd6FbMqYSFTu7rLvlO+AlzIvJWlxzCcR6FRcdrJj1oR0HEccr9nsmNn3hjZF2sr39HWDcrU8el0CPZN0YjJM4lbIxXl5BMt1hTluohIZ7Gd5/GJH2Mk/D3CdEvbKKtCH6zQTgKgX5KXengx5+TWyN7Hqc=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436491. Click or tap if you trust this link." data-linkindex="1" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/baf228f3-101e-4f58-8a86-b97ffdca4d86.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">REYES, JESSICA </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436490</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-10-2021 - 2:49 am</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35990249 POSS CS PG 1/1-B &gt;=4G&lt;200G<br aria-hidden="true">55999999 POSS/DEL
+        DRUG PARAPHERNALIA</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$420.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436490&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408427341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=tT%2Fbosin7C7XfTlvdDthIAkK9uSeuWPPqFHQgq17K24%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436490" shash="sqRVkx+snHZ2jwKqzTqD73oVkOebvUNXP8Ci6mI+oPARrYINvTwa1Kezj2e5E21R72L3s/aqRf9oSGQWM432NGU3yvAdHtQxLfZ7mopWxiTNGA4S0gOFhpzlF6n+lI1TfTwrbs9SbvPeo8vgR0cb3aCxqZ53RvyPmRWpBnPGMlQ=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436490. Click or tap if you trust this link." data-linkindex="2" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/b3c3ef2a-4237-4fb9-95ba-f3d9f5cee8c8.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">NOLEN, DEANNA </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436489</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-10-2021 - 1:47 am</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">55999999 POSS/DEL DRUG PARAPHERNALIA</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$662.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436489&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408437340%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=49JWL75iQ%2BK3adeDdJy28fmPAlbCEz4C34X%2Bny6v4lc%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436489" shash="DAh28dnFxJYO88u2tjPcx/0bkoIQiPBhQ2oBYQDlTA52wrPSUcdYooaNqxvl6SHlEtRYvR+EASIpxvgBY4ggkvW27QdtdBaq878OMBNVWOdEIVDDQ03j0h+vdBDiHw95MTF1cd3AGJp+emzrVlXhhlveJ3a1FpqIYHlihnBCTLY=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436489. Click or tap if you trust this link." data-linkindex="3" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/c26b9238-b11a-47ab-99a9-0b9eb8123c94.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">COLEMAN, ANTAMOREY </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436488</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 11:54 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">52030027 *FTA* UNL CARRYING WEAPON</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$1125.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436488&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408437340%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=IhvpWIisqIePDHEMZOttqqzrEESoaAGoOJncJ6UVx6w%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436488" shash="WCv/M1WhltV3M1rWm0J+MnQT4wwbmLCA4zYiG6tobPwS0Z5FlTV36hIcLu0+gyamiBl4FPykJMx2FWsDWprEPajauM5CWLUtP0nqTtwSdnq37Rp/5NKC9a9l4a1A46Ip9BMhK+uCq3W97A/Uce/o7tT3sWyHfFvUzluY4wSWfZk=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436488. Click or tap if you trust this link." data-linkindex="4" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/dcd00e34-75bd-4269-b6a2-98afcd76ce75.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">ALCALA, JOHN </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436487</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 10:45 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">13990086 ASSAULT OF PREGNANT PERSON</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436487&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408447334%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=BqW5V1DmP2CHYrLuHHkbb8yUIUU9Mt%2FG942yBHz94i8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436487" shash="TOxrWP/WKo2RekmHh7P7DXNZUAbiR6yacMc9KVOOqfPKO3Y+zswPkoXaivSUzditOPgXU7bjqhIAPsa9pT0cSOcjRvmJbVYns77pSJjh6QTFSt2HInwkYAPUMbDUG+yuCKnpFOQ+k2V8zOhG6FUWLqsU6W9dloS5C3gMetcOKC4=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436487. Click or tap if you trust this link." data-linkindex="5" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/da57ce04-d077-4248-a6c9-f70bb34b8cba.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">CHAVEZ, RICHARD </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436486</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 9:34 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">48990008 FAIL TO IDENTIFY FUGITIVE FROM JUSTICE<br aria-hidden="true">MISC PAROLE
+        VIOLATION</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$500.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436486&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408457326%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=lTZDnqsqBl%2F5ZLBEid7xpA8PEKJ8rHcMk2YYoi1HN0U%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436486" shash="JoCVw28+LaPCiC3RsAV4M97UNeV2V2jYaOtdBX3FayTbroauLZ5pX3bhN3MoXj8lkAnSKdhrFZ3ysffhJqXU7ROCl1agEbjmkW3qPOgDIL7f0LFQ2jU4t5LEGLbKNYYWM/o1esoGF7IWGyUloY7TE8dW0tEV482kW8oreBzw490=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436486. Click or tap if you trust this link." data-linkindex="6" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/396eac10-0dfd-4913-8ec2-b1dee358685a.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">NORMAN, JOHN </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436485</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 8:26 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">54040028 DRIVING WHILE INTOXICATED W/CHILD UNDER 15YOA</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436485&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408457326%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=r8IepjKUPjdC49YxyG6vPHRONBoYVy5RmJCW838Bz6E%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436485" shash="SdTPKER5C/w3flg+721fLf7KgCuHHGZBWb4sy04EsvxoDuhwL+Z8h5AQBmRgfSKhP/sX/8LsRMKFiP4uKeureYiaVArGsBp7P2nLwpkVSMb0FIDDtnRR3evxr9XQERaTVeAjDB0l2ZgQU5yNk5sbtKcqBEke978p/O9yp07eOV8=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436485. Click or tap if you trust this link." data-linkindex="7" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/4c9ce439-2354-462c-bed7-593d3493b2c6.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">SMITH, JOEL </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436484</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 7:46 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">41999999 PUBLIC INTOXICATION</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$462.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436484&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408467324%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=UQ4qnPuu%2BoPG0lzzL5jFGjx2T4wOmWTWGxRjtEbA4io%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436484" shash="HfRmxwOynu+ajNzgRIoeKLMXgf7BhuTn4Oh2dVc4uHvxKnVURuvjiHYwiVXKAVSv89tcO6vgxi8qcnTRuvVDOR9GajKiVorggPDhfWDQjnQlPwze3gbVMcWvFe8BL94W3BFZOFKJyOqPFgQlFFz3NJcOG8Ky8ftq/Gxyyk2Zp6A=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436484. Click or tap if you trust this link." data-linkindex="8" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/edea32e0-ee09-4ed7-9b33-254ef1de8d24.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">MOORE, CL </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436483</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 10:43 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 4:23 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">DL1 NO DRIVER'S LICENSE (WHEN UNLICENSED)<br aria-hidden="true">SP *CPF*SPEEDING
+      </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$248.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436483&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408467324%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=hu9FsY6fMVd5IIxPlqNe%2BqpqeU1cSdOvqvi61wIsytI%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436483" shash="hy7OnG6yWym+wORWUq+nHvDZBL72ejGISlJ4DqQYkxYojNP3LwqPgRA+wZQLNOaDMkT+CvOVdokG8zDz1wuPTeP9djuS43SL7QUkSZkAheXaiHiJydG/sC3V2Pv3KhOI0LC4RzCxVsVlCG79ajy1wovETJaoZcct01wglIbG6lE=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436483. Click or tap if you trust this link." data-linkindex="9" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/3d8659f9-c73e-4e08-9ecb-dfec393f6918.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">PENA, MARTIN </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436482</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 3:56 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35990014 *GOB*POSS CS PG 1 &lt;1G</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436482&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408477316%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=NUHGrTFu6H9rDqDxrMFS%2FzN5Seb10j4%2F%2FJ3hDNjYvL8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436482" shash="XHzBhcqtJX8teKCtiM/DLunaXsIWZbwY6BcgmhXra2RAHgqfj+wNYjDxUGlBE942lsPvS+EtiBJsn3zzCe/xq5lYUjbACC2u/yQV4jWW4B3JliKlBVJronoUzrfyzTfB7oHRm6sKD4jvSAe7rVkBKImZ6lfta1P2nc1p84+V2YM=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436482. Click or tap if you trust this link." data-linkindex="10" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/e6c8a622-b01b-4aed-9ebd-b41fa285a758.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">TATUM, DWAYNE </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436481</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 3:31 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">13150007 AGG ASSAULT DATE/FAMILY/HOUSE W/WEAPON</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436481&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408477316%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=ta8pqIaPjcHob70GIinq8W7Y3AuxBtzg9F3Fnu4DYgQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436481" shash="UKECeCEQR+4OmI+f/e+yCzp42mv96Yro3MSFqQXgNwBmOz7P1i8mahW53xXDxhlGWNUKl6d/Fv/VpLaRZNNCxTNcP/8bSjHl4uyDm6TWXOf7MfACzRB8axyDxHiIg7fIEVAne+1AFgRAuEE68hiFm3MQe+LBGbsr+8pBOLIzFHs=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436481. Click or tap if you trust this link." data-linkindex="11" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/e4b56b2b-0076-4e13-a40b-d3842ad0360c.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">DAVIS, TRAVIS </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436480</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 2:10 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35620008 POSS MARIJ &lt;2OZ<br aria-hidden="true">35990020 POSS CS PG 2 &gt;=
+        1G&lt;4G</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$1000.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436480&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408487309%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=lUhRtV5zB0Atac7nuMYD5c5pMU28UD2zJUaEGzmGGbM%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436480" shash="K21Cw35lLTIMRScnp2tB0RT+AklKU6kVV6ywBhe8ymtWkg1cWxW/5gf/764PCq+ZgEzBTPrngg4pSjN2SadOSDWfRwkWnB+eyYPFdSjTXAcna8rl/r/+wLo5NMR6pnkzATIjQco1wsIWHdrxM3CkUlaQSX1q3xdgk9daFm20h/U=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436480. Click or tap if you trust this link." data-linkindex="12" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/ba371b1a-02fd-4e4c-b0eb-c8d431c4487f.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">FRAIRE, PABLO </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436479</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 2:04 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35620008 *J/N* POSS MARIJ &lt;2OZ<br aria-hidden="true">35990016 *J/N* POSS CS PG
+        1 &gt;=4G&lt;200G<br aria-hidden="true">48010006 *J/N*RESIST ARREST SEARCH OR TRANSPORT<br aria-hidden="true">MISC US MARSHAL HOLD</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436479&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408487309%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=YJi0gTI%2FuAogWCAY4fCJN1f1cckv2Venap%2Fj0xs3ea0%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436479" shash="Blemofr8isa5s/Nz+ZdzRLgMlGl0FCx5MSFYMo9VDA8Vz/EMpWQECwE1Cd4vP8XBVIGPNk0yn9Zl3qHSMttRVhBFCMPl+EQxzTgSYRjxzF+0FMjdG3iWDRZcub7fmIaUqezM4c5QP8nNnRuHrUd55CLfSQV5pQKPDuDXYdb9OGg=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436479. Click or tap if you trust this link." data-linkindex="13" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/c3115538-898b-4fec-a8a6-f4467264cd56.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">Carpenter, Rudy </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436478</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 1:39 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">13990031 *VOP* ASSAULT CAUSES BODILY INJURY FAMILY VIOLENCE</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436478&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408497303%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=CenlybGNUQAKz%2FmyFj%2BBiaTEjeEw22JX%2B0ZJcIMDH0w%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436478" shash="KpFg3WTehMp2uiqBGf4afKfaO/wbVZqS8PuiayJLpxaJh4hOUfhojgol5TdtJ4lEviqO6/QCCIXT2Gr2HM9lx3q59pXZflRRI4kDsHUVguYx8ntGr2GTJ7PEus8wdP7pxHnRqkeaWd+wxE7fN8NrLnPw3cqpytrs/2hSXdi6Uwo=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436478. Click or tap if you trust this link." data-linkindex="14" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/141af226-aae4-42ca-9f64-286051b70a8b.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">ORNELAS, DOLORES </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436477</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 11:58 am</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-09-2021 - 11:06 am</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">23990191 THEFT PROP &gt;= $100&lt;$750</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$500.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftomgreencountysheriff.org%2Froster_view.php%3Fbooking_num%3D436477&amp;data=04%7C01%7Cjcaldwell%40klst.net%7C2754ed712f9344a2f1ea08d9a447880d%7C9e5488e2e83844f6886cc7608242767e%7C0%7C0%7C637721449408497303%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=676hR%2FME7%2B%2BkcgL9ky2vhNrlo2Sxd2d3UIdSML%2FDp%2FY%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" originalsrc="https://tomgreencountysheriff.org/roster_view.php?booking_num=436477" shash="hP7wTdILO57SRjDFwvMt/YBc5ODCw/jTDoUiQItSg5iyntxGwvibsPUCJExcGdxtT02ehFHx7GRYxLMSxe31AwR4tFba0F9VwiCxOS+qUiylXjvRj9KmfJUgcF0DHg84b6t3B/zfOQxACAd2LoGL2bEHn/WG/7S3HXm7FaCKw/Q=" title="Original URL: https://tomgreencountysheriff.org/roster_view.php?booking_num=436477. Click or tap if you trust this link." data-linkindex="15" style="color: rgb(255, 255, 255) !important;" data-ogsc=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><em><strong>Disclaimer</strong>: Information presented on this website is collected, maintained, and provided for the convenience of the site visitor/reader. While every effort is made to keep such information accurate and up-to-date, the Tom Green County Detention Center can not certify the accuracy and/or authenticity of any information. The reader should not rely on this information in any manner. Under no circumstances shall Tom Green County, the Sheriff of Tom Green County, the web development supplier for Tom Green County Sheriff, the employees of Tom Green County nor the employees of Tom Green County Detention Center be liable for any decisions, actions taken or omissions made from reliance on any information contained herein from whatever source, nor shall the Tom Green County Detention Center be liable for any other consequences from any such reliance. *Booking and release times are approximate. These records are from the Tom Green County Jail system.</em><br><strong>Source:</strong> Tom Green County Sheriff's Office<br><strong>Contact information</strong><br><strong>Address</strong>: 122 W Harris Ave, San Angelo, TX 76903<br><strong>Phone:</strong> (325) 659-6597</p>
+<!-- /wp:paragraph -->

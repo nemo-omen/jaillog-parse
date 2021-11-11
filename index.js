@@ -1,20 +1,27 @@
 import * as fs from 'fs';
 import {JSDOM} from 'jsdom';
-import * as xlsxj from 'xlsx-to-json';
 import { codes } from './codes.js';
+import { wpTemplate } from './template.js'; 
 
-const writeStream = fs.createWriteStream('charge-categories.md');
+const writeStream = fs.createWriteStream('charge-categories.txt');
+
 const pathName = writeStream.path;
 
-const htmlFile = fs.readFileSync('./jl.html');
+const templateFilePath = 'jaillog_wp.txt';
 
 const myDom = await JSDOM.fromFile('./jl.html');
+
+const rawHTML = fs.readFileSync('./jl.html', 'utf8');
 
 const document = myDom.window.document;
 
 const divs = Array.from(document.querySelectorAll('div'));
 
 const myDivs = divs.filter((div) => div.classList.contains('x_data-item'));
+
+const links = Array.from(document.querySelectorAll('a'));
+
+const count = divs.filter((div) => div.classList.contains('x_image-div')).length;
 
 const reserved = ['*RPR*', '*COMM*', 'CS', 'PG', 'MISC', 'CPF', 'FTA', 'VPTA', '*GOB*', 'DL'];
 
@@ -24,6 +31,10 @@ const digitSpaceRegex = /\d{8}\s/;
 
 const whitespaceRegex = /\s{2,8}/;
 
+links.forEach((link) => {
+  link.parentNode.removeChild(link);
+});
+
 const vals = myDivs
   .map((div) => div.innerHTML)
   .filter((val) => val !== 'No Bond')
@@ -32,38 +43,27 @@ const vals = myDivs
   .filter((val) => val.match(/(\d{1,4}([.\-/])\d{1,2}([.\-/])\d{1,4})/g) === null)
   .map((val) => val.split('<br aria-hidden="true">'))
   .flat() // <--
-  .map((val) => val
-          .replace(digitRegex, '')
-          .replace('\\n', '')
-          .replace(whitespaceRegex, ' ').replace('&gt;', '>')
-          .replace('*COMM*', '*COMM* ')
-          .replace('*RPR*', '*RPR* ')
-          .replace('*MTR*', '*MTR* ')
-          .replace('&lt;', '<')
-          .replace('  ', ' ')
-          .split(' ')
-          .map(
-            (word) => {
-              if(!reserved.includes(word) && word.charAt(0) !== '*') {
-                if(word.charAt(0) === 'W' && word.charAt(1) == '/') {
-                  return word.charAt(0).toLowerCase() + word.charAt(1) + word.charAt(2) + word.slice(3).toLowerCase();
-                }
+  .map((val) => {
+    const first = val.split(' ')[0];
+    const remaining = val
+      .split(' ')
+      .slice(1)
+      .join(' ');
 
-                return word.charAt(0) + word
-                  .slice(1)
-                  .toLowerCase();
-              } else {
-                return word;
-              }
-            }
-          ).join(' '))
-          .map((val) => {
-            if(val.charAt(0) === ' ') {
-              return val.slice(1);
-            } else {
-              return val;
-            }
-          });
+    if(first.match(digitRegex)) {
+      return remaining;
+    }
+    
+    return val;
+  })
+  .map((val) => {
+    return val
+      .replace('\n', '')
+      .replace(whitespaceRegex, ' ')
+      .replace('&gt;', '>')
+      .replace('&lt;', '<')
+      ;
+  });
 
 const charges = new Map();
 
@@ -85,18 +85,20 @@ for(let [key, value] of chargeEntries) {
 
 lines = lines
   .sort((a,b) => a < b ? -1 : a > b ? 1 : 0)
-  .map((line) => `- ${line}`);
+  .map((line) => `${line}`);
 
-console.log(lines);
+const template = wpTemplate(24, count, 'https://conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-11-2021', lines, myDom.serialize());
 
-lines.forEach((line) => writeStream.write(`${line}\n`));
+fs.writeFileSync(templateFilePath, template, 'utf8');
 
-writeStream.on('finish', () => {
-  console.log(`Finished writing ${pathName}`);
-});
+// lines.forEach((line) => writeStream.write(`${line}\n`));
 
-writeStream.on('error', (error) => {
-  console.error(`Failed to write ${pathName} with error: ${error}`);
-});
+// writeStream.on('finish', () => {
+  // console.log(`Finished writing ${pathName}`);
+// });
+// 
+// writeStream.on('error', (error) => {
+  // console.error(`Failed to write ${pathName} with error: ${error}`);
+// });
 
-writeStream.end();
+// writeStream.end();
