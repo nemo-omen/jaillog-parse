@@ -127,7 +127,7 @@ lines = lines
   .sort((a,b) => a < b ? -1 : a > b ? 1 : 0);
 
 // generate the template
-const template = wpTemplate(24, count, 'https://conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-11-2021', lines, myDom.serialize());
+const template = wpTemplate(24, count, 'https://www.conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-12-2021', lines, myDom.serialize());
 
 // write the final file
 try {
