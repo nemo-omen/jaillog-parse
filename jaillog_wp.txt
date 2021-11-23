@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p>Over the past 24 hours, 8 people were booked into the Tom Green County Detention Center. Below is a summary of the booking charges and the individual Tom Green County Detention Center records.</p>
+<p>Over the past 24 hours, 13 people were booked into the Tom Green County Detention Center. Below is a summary of the booking charges and the individual Tom Green County Detention Center records.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -9,36 +9,36 @@
 <!-- wp:list -->
 <ul>
 // loop through charges list & output li elements
-<li>Assault Fam/house Mem Impede Breath/circulat: 1</li>,<li>Criminal Trespass: 1</li>,<li>Disregard - Red Light: 1</li>,<li>Disregard - Stop Sign: 1</li>,<li>Driving While Intoxicated: 1</li>,<li>Dwli: 1</li>,<li>Evading Arrest Detention: 1</li>,<li>Man Del Cs Pg 1 >=4g<200g: 1</li>,<li>Misc Alarm-Users without Permit: 1</li>,<li>Misc Cpf X 3: 1</li>,<li>Misc Cpf X8: 1</li>,<li>Misc Fail to Drive in Single Lane: 1</li>,<li>Misc No Proof of Financial Responsiblity: 1</li>,<li>Misc Vpta X 1: 1</li>,<li>No Drivers License: 1</li>,<li>Poss Cs Pg 1 >=4g<200g: 1</li>,<li>Poss Dangerous Drug: 1</li>,<li>Poss Del Drug Paraphernalia: 1</li>,<li>Poss/del Drug Paraphernalia: 1</li>,<li>Red Light Violation: 1</li>
+<li> *GOB* Burglary Habitation Intend Other Felony: 1</li>,<li>*COMM* Poss Marij <2oz: 2</li>,<li>*GJI* Sexual Assault Child: 1</li>,<li>*GOB* Agg Assault W/deadly Weapon: 1</li>,<li>*RPR* Driving W/lic Inv W/prev Conv/susp/w/o Fin Res: 1</li>,<li>*RPR* Poss Cs Pg 2 < 1g: 1</li>,<li>Accident Involving Damage to Vehicle>=$200: 1</li>,<li>Driving While Intoxicated Bac >=0.15: 1</li>,<li>Driving While License Invalid: 1</li>,<li>Expired Vehicle Registration: 1</li>,<li>Gji*theft Prop>=$1,500<$20k: 1</li>,<li>Misc Cpfx2: 1</li>,<li>Misc Vpta X 2: 1</li>,<li>Misc Vptax2: 1</li>,<li>No Proof of Financial Responsibility: 1</li>,<li>Poss Cs Pg 2 < 1g : 1</li>,<li>Poss Cs Pg 2 >= 1g<4g: 1</li>,<li>Poss Marij <2oz: 1</li>,<li>Speeding - 10% or over 44 Mph in a 35 Mph Zone: 1</li>,<li>Theft Prop>=$1,500<$20k: 1</li>
 </ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-12-2021">[NOTE: If viewing on the news app, please click here to view the roster.]</a></p>
+<p><a href="https://www.conchovalleyhomepage.com/crime/jail-logs/jail-logs-november-23-2021">[NOTE: If viewing on the news app, please click here to view the roster.]</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <html><head></head><body><div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/8029807d-5b00-4a9f-8f92-23cce79cbc38.jpg" width="200"></div>
+  <div class="x_columns x_medium-6 x_image-div" aria-hidden="true">&nbsp;</div>
   <div class="x_columns x_medium-6">
     <div class="x_row">
-      <div class="x_data-name">ADNEY, DAKOTA </div>
+      <div class="x_data-name">ALLEN, SAMANTHA </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436509</div>
+      <div class="x_cell x_data-item">436686</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-12-2021 - 3:53 am</div>
+      <div class="x_cell x_data-item">11-23-2021 - 2:08 am</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">54040009 DRIVING WHILE INTOXICATED<br aria-hidden="true">54999999 DWLI</div>
+      <div class="x_cell x_data-item">54040014 DRIVING WHILE INTOXICATED BAC &gt;=0.15</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header"></div>
-      <div class="x_cell x_data-item">$1690.00</div>
+      <div class="x_cell x_data-item">$1500.00</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">
@@ -52,27 +52,27 @@
   </div>
 </div>
 <div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/01296207-92ed-437b-b583-bde1c847d345.jpg" width="200"></div>
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/f10fdaea-179b-4d10-a8d6-a741458bb2f9.jpg" width="200"></div>
   <div class="x_columns x_medium-6">
     <div class="x_row">
-      <div class="x_data-name">NAVARRO, J LYNN </div>
+      <div class="x_data-name">ENCINAS, CARLOS </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436508</div>
+      <div class="x_cell x_data-item">436685</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-12-2021 - 2:35 am</div>
+      <div class="x_cell x_data-item">11-23-2021 - 1:06 am</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">54999999 DISREGARD - RED LIGHT<br aria-hidden="true">54999999 DISREGARD - STOP
-        SIGN<br aria-hidden="true">54999999 NO DRIVERS LICENSE</div>
+      <div class="x_cell x_data-item">35620008 POSS MARIJ &lt;2OZ<br aria-hidden="true">35990019 POSS CS PG 2 &lt; 1G
+      </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header"></div>
-      <div class="x_cell x_data-item">$1344.00</div>
+      <div class="x_cell x_data-item">$1000.00</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">
@@ -86,27 +86,27 @@
   </div>
 </div>
 <div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/89b4e244-9104-437b-aaba-cfa27a8fa3d0.jpg" width="200"></div>
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/4c790ff9-c9e5-404e-95c1-465dfaa434ae.jpg" width="200"></div>
   <div class="x_columns x_medium-6">
     <div class="x_row">
-      <div class="x_data-name">BLANCO, DIANA </div>
+      <div class="x_data-name">KAISER, PEGGY </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436507</div>
+      <div class="x_cell x_data-item">436684</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 11:21 pm</div>
+      <div class="x_cell x_data-item">11-22-2021 - 11:48 pm</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">35990133 POSS DANGEROUS DRUG<br aria-hidden="true">55999999 POSS/DEL DRUG
-        PARAPHERNALIA</div>
+      <div class="x_cell x_data-item">54999999 DRIVING WHILE LICENSE INVALID<br aria-hidden="true">54999999 SPEEDING -
+        10% OR OVER 44 MPH IN A 35 MPH ZONE<br aria-hidden="true">MISC VPTA X 2</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header"></div>
-      <div class="x_cell x_data-item">$1662.00</div>
+      <div class="x_cell x_data-item">$2282.20</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">
@@ -120,26 +120,27 @@
   </div>
 </div>
 <div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/3b546e54-be30-4e7c-8665-a4672e951f8f.jpg" width="200"></div>
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/e6bbf58d-9dae-4d39-ba83-785373367d11.jpg" width="200"></div>
   <div class="x_columns x_medium-6">
     <div class="x_row">
-      <div class="x_data-name">SALAZAR, LORIE </div>
+      <div class="x_data-name">Warren, Clark </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436506</div>
+      <div class="x_cell x_data-item">436683</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 10:59 pm</div>
+      <div class="x_cell x_data-item">11-22-2021 - 11:42 pm</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">55999999 POSS DEL DRUG PARAPHERNALIA<br aria-hidden="true">MISC CPF X8</div>
+      <div class="x_cell x_data-item">54999999 EXPIRED VEHICLE REGISTRATION<br aria-hidden="true">54999999 NO PROOF OF
+        FINANCIAL RESPONSIBILITY<br aria-hidden="true">MISC CPFX2<br aria-hidden="true">MISC VPTAX2</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header"></div>
-      <div class="x_cell x_data-item">$662.00</div>
+      <div class="x_cell x_data-item">$2322.00</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">
@@ -153,93 +154,26 @@
   </div>
 </div>
 <div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/75e2d0cc-23f7-4e95-afd6-1c3878850f3e.jpg" width="200"></div>
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/f425591c-78c1-4f2c-b3e7-a777761fbcc0.jpg" width="200"></div>
   <div class="x_columns x_medium-6">
     <div class="x_row">
-      <div class="x_data-name">MUNOZ, ROBERT </div>
+      <div class="x_data-name">NEWSOME, TANESHAY </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436505</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 8:41 pm</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">35990003 MAN DEL CS PG 1 &gt;=4G&lt;200G<br aria-hidden="true">48010017 EVADING
-        ARREST DETENTION<br aria-hidden="true">54999999 RED LIGHT VIOLATION<br aria-hidden="true">MISC VPTA X 1</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header"></div>
-      <div class="x_cell x_data-item">$1648.00</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">
-      </div>
-    </div>
-  </div>
-</div>
-<div class="x_row">
-  <div>
-    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
-  </div>
-</div>
-<div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/1f8d2e45-7b81-462b-9664-b5be429a13a9.jpg" width="200"></div>
-  <div class="x_columns x_medium-6">
-    <div class="x_row">
-      <div class="x_data-name">WINN, HALEY </div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436504</div>
+      <div class="x_cell x_data-item">436682</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Release Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 7:13 pm</div>
+      <div class="x_cell x_data-item">11-23-2021 - 1:28 am</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 5:48 pm</div>
+      <div class="x_cell x_data-item">11-22-2021 - 10:51 pm</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">57070020 CRIMINAL TRESPASS</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header"></div>
-      <div class="x_cell x_data-item">$500.00</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">
-      </div>
-    </div>
-  </div>
-</div>
-<div class="x_row">
-  <div>
-    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
-  </div>
-</div>
-<div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/e0d8c25b-2bac-4102-ad8b-501c4e67a08f.jpg" width="200"></div>
-  <div class="x_columns x_medium-6">
-    <div class="x_row">
-      <div class="x_data-name">GREER, JAMES </div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436503</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 3:30 pm</div>
-    </div>
-    <div class="x_row">
-      <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">35990016 POSS CS PG 1 &gt;=4G&lt;200G</div>
+      <div class="x_cell x_data-item">54010010 ACCIDENT INVOLVING DAMAGE TO VEHICLE&gt;=$200</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header"></div>
@@ -257,24 +191,275 @@
   </div>
 </div>
 <div class="x_row">
-  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/0fba272d-33f9-4f78-a70c-da4f0ce24519.jpg" width="200"></div>
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/6764e820-d444-4b97-8b67-288d6ae87ee4.jpg" width="200"></div>
   <div class="x_columns x_medium-6">
     <div class="x_row">
-      <div class="x_data-name">WILSON, SIR </div>
+      <div class="x_data-name">REYNA, FREDDIE </div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking #:</div>
-      <div class="x_cell x_data-item">436502</div>
+      <div class="x_cell x_data-item">436681</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 10:58 pm</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Booking Date:</div>
-      <div class="x_cell x_data-item">11-11-2021 - 1:41 pm</div>
+      <div class="x_cell x_data-item">11-22-2021 - 8:00 pm</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header">Charges:</div>
-      <div class="x_cell x_data-item">13990076 ASSAULT FAM/HOUSE MEM IMPEDE BREATH/CIRCULAT<br aria-hidden="true">MISC
-        ALARM-USERS WITHOUT PERMIT<br aria-hidden="true">MISC CPF X 3<br aria-hidden="true">MISC FAIL TO DRIVE IN SINGLE
-        LANE<br aria-hidden="true">MISC NO PROOF OF FINANCIAL RESPONSIBLITY</div>
+      <div class="x_cell x_data-item">35990019 *RPR*POSS CS PG 2 &lt; 1G</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/ea3d90e1-5beb-4dbf-b76d-2837fb657915.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">HOLLON, CIARA </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436680</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 7:10 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35990020 POSS CS PG 2 &gt;= 1G&lt;4G</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/3c55e0ea-8d2f-47e8-a232-24fbddbbf06d.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">REEVES, RIKKI </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436679</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 5:53 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">23990004 GJI*THEFT PROP&gt;=$1,500&lt;$20K<br aria-hidden="true">23990004 THEFT
+        PROP&gt;=$1,500&lt;$20K</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/0af93f49-fffc-4199-b101-73520155438c.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">ARRINGTON, NICHOLAS </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436678</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 7:43 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 4:32 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35620008 *COMM* POSS MARIJ &lt;2OZ</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/58e78629-ab6e-45ae-9d70-63f45efa32f6.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">AGUILA, AARON </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436677</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 7:58 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 4:23 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">35620008 *COMM* POSS MARIJ &lt;2OZ</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/2b01d41e-60de-41a7-a6c1-668eb096793a.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">EKERT, JERRY </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436676</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-23-2021 - 2:13 am</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 3:18 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">54990067 *RPR* DRIVING W/LIC INV W/PREV CONV/SUSP/W/O FIN RES</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">No Bond</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/ab746ffd-06d3-444a-b3cb-f645d492d69f.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">GARCIA, CHRISTOPHER </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436675</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 1:38 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">11990002 *GJI* SEXUAL ASSAULT CHILD</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header"></div>
+      <div class="x_cell x_data-item">$50000.00</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="x_row">
+  <div>
+    <hr style="color: rgb(180, 180, 180) !important;" data-ogsc="">
+  </div>
+</div>
+<div class="x_row">
+  <div class="x_columns x_medium-6 x_image-div"><img data-imagetype="External" src="https://tomgreencountysheriff.org/templates/tomgreencountysheriff.org/images/inmates/8c51a5c7-c3f5-4586-8903-b2063f1369c1.jpg" width="200"></div>
+  <div class="x_columns x_medium-6">
+    <div class="x_row">
+      <div class="x_data-name">HOGEDA, ANGELA </div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking #:</div>
+      <div class="x_cell x_data-item">436674</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Release Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 7:43 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Booking Date:</div>
+      <div class="x_cell x_data-item">11-22-2021 - 1:28 pm</div>
+    </div>
+    <div class="x_row">
+      <div class="x_cell x_data-header">Charges:</div>
+      <div class="x_cell x_data-item">13150005 *GOB*AGG ASSAULT W/DEADLY WEAPON<br aria-hidden="true">22990003
+        *GOB*BURGLARY HABITATION INTEND OTHER FELONY</div>
     </div>
     <div class="x_row">
       <div class="x_cell x_data-header"></div>
